@@ -1,6 +1,6 @@
 # Pogo Stick
 
-[Download Pogo Launcher.exe](https://github.com/zinuska2011-del/the-pogo-game/releases/latest/download/Pogo%20Launcher.exe)
+[Download Pogo Launcher.exe](https://github.com/zinuska2011-del/the-pogo-game/releases/latest/download/Pogo.Launcher.exe)
 
 Open the launcher, select **Install game**, and sign in with your online account.
 
